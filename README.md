@@ -17,4 +17,5 @@ cd nomedoprojeto
 ## 3 - iniciar um projeto node js basico!
 npm init
 
-
+## 4 - criar arquivo dentro da psta
+echo "" > index.js
